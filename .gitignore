@@ -25,3 +25,4 @@ go.work.sum
 .env
 
 COPILOT_INSTRUCTIONS.md
+Dockerfile.localBuilder
